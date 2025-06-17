@@ -25,7 +25,7 @@ BitGold is a multivariate time series forecasting model built using Keras and Te
 - Merged data from all tickers into a single dataframe  
 - Calculated RSI for Bitcoin (14-day window)  
 - Removed NaN values  
-- Trimmed one row to maintain bi-daily order  
+- Trimmed rows to maintain bi-daily order  
 
 ---
 
